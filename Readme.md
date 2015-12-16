@@ -10,12 +10,12 @@ Functional, data-last object filter.
 
 ## Installation
 
-    $ npm install @micro-js/filter-obj
+    $ npm install @f/filter-obj
 
 ## Usage
 
 ```js
-var filterObj = require('@micro-js/filter-obj')
+var filterObj = require('@f/filter-obj')
 
 filterObj(isEven, {a: 1, b: 2, c: 3, d: 4, e: 5}) // -> {b: 2, c: 4}
 
@@ -44,5 +44,5 @@ MIT
 [git-url]: https://github.com/micro-js/filter-obj
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/@micro-js/filter-obj.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@micro-js/filter-obj
+[npm-image]: https://img.shields.io/npm/v/@f/filter-obj.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@f/filter-obj

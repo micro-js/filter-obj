@@ -1,5 +1,5 @@
 {
-  "name": "@micro-js/filter-obj",
+  "name": "@f/filter-obj",
   "description": "Functional, data-last object filter.",
   "repository": "git://github.com/micro-js/filter-obj.git",
   "version": "1.0.0",
